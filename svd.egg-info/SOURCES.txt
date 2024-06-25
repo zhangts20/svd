@@ -1,0 +1,5 @@
+setup.py
+svd.egg-info/PKG-INFO
+svd.egg-info/SOURCES.txt
+svd.egg-info/dependency_links.txt
+svd.egg-info/top_level.txt
